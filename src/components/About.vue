@@ -1,7 +1,7 @@
 <template>
     <div>
 <!-- Card Blog -->
-<div class="max-w-[85rem] -mt-56 sm:-mt-64  md:-mt-96 lg:mt-auto  lg:mb-auto px-4 py-10 lg:px-20 lg:py-14 mx-auto">
+<div class="max-w-[85rem] -mt-48 sm:-mt-64  md:-mt-96 lg:mt-auto  lg:mb-auto px-4 py-10 lg:px-20 lg:py-14 mx-auto">
   <!-- Grid -->
   <div class="grid grid-cols-1 lg:grid-cols-2 lg:items-center gap-8">
     <div class="lg:order-2">
