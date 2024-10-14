@@ -34,7 +34,7 @@ import Footer from "./components/Footer.vue";
 </template>
 
 <style scoped>
-@font-face {
+/* @font-face {
   font-family: "PingAR";
   src: url("@/assets/font/Ping.Font.Tlwen.com/PingAR+LT-Regular.woff2")
       format("woff2"),
@@ -42,5 +42,5 @@ import Footer from "./components/Footer.vue";
       format("woff");
   font-weight: normal;
   font-style: normal;
-}
+} */
 </style>
