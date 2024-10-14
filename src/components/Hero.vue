@@ -27,20 +27,19 @@
 
 
       <!-- start : images -->
-       <div class=" parent  flex justify-center gap-5 ">
-            <!-- <div class="one mt-44 -ml-16">
+       <div class=" parent hidden sm:flex justify-center gap-5 ">
+            <div class="one mt-44 -ml-16">
                 <img src="../assets/images/Your image.png" alt="screen"/>
             </div>
             <div class="hand  relative top-24">
                 <img class="opacity-50 " src="../assets/images/Background.png" alt="Handin Holding Screen"/>
-                <div class="absolute sm:size-36 md:size-36  size-24 md:top-8 sm:top-5 top-4 left-8 md:left-14 sm:left-12">
+                <div class="absolute sm:size-36 md:size-36  size-24 md:top-8 sm:top-5 top-4 left-8 md:left-14 sm:left-11">
                   <img class="" src="../assets/images/Your image.png" alt="screen"/>
                 </div>
-            </div> -->
-            <img class=" w-full -mb-24" src="../assets/images/screens4.png" />
-            <!-- <div class="three mt-28 ">
+            </div>
+            <div class="three mt-28 ">
                 <img class="" src="../assets/images/Your image.png" alt="screen"/>
-            </div>      -->
+            </div>     
        </div>
       <!-- end : images -->
 
@@ -57,7 +56,7 @@
 
 <style scoped>
 .bgImg {
-  /* background-image: url('../assets/images/mexican-dishes-black-background 1.png'); */
+  background-image: url('../assets/images/mexican-dishes-black-background 1.png');
   background-position: center;
   background-size: cover;
   background-repeat: no-repeat;

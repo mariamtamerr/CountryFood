@@ -26,7 +26,7 @@
       <!-- Avatar Box -->
       <div class=" lg:max-w-[600px] lg:max-h-[600px] bg-[#F5F5F5] relative rounded-xl p-5 mt-14  lg:mt-20 flex flex-col items-center">
         <div class="shrink-0 mt-10">
-          <img class="size-10 absolute right-10 -top-5  md:h-14 md:w-14 rounded-full" src="../assets/images/Avatar.png" alt="Avatar Image">
+          <img class="sm:size-10 size-20 absolute right-10 sm:-top-5 -top-11   md:h-14 md:w-14 rounded-full" src="../assets/images/Avatar.png" alt="Avatar Image">
         </div>
 
         <div class="ms-3 md:ms-4">

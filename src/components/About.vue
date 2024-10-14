@@ -6,7 +6,7 @@
   <div class="grid grid-cols-1 lg:grid-cols-2 lg:items-center gap-8">
     <div class="lg:order-2">
       <div class="lg:relative pt-[50%] lg:pt-[100%] rounded-lg">
-        <img class=" size-96 md:size-auto lg:absolute mx-auto  top-0 start-0 lg:object-cover rounded-lg" src="../assets/images/about.png" alt="About Image">
+        <img class=" size-64 sm:size-auto lg:absolute mx-auto  top-0 start-0 lg:object-cover rounded-lg" src="../assets/images/about.png" alt="About Image">
       </div>
     </div>
     <!-- End Col -->
