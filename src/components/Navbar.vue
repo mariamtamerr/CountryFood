@@ -8,10 +8,11 @@ const isOpen = ref(false);
   <div class="bg-black font-pingAR">
     <!-- ========== HEADER ========== -->
     <header
-      class="sticky container bg-black top-4 inset-x-0 flex flex-wrap md:justify-start md:flex-nowrap z-50 w-full before:absolute before:inset-0 before:max-w-[66rem] before:mx-2 before:lg:mx-auto before:rounded-[26px] before:bg-neutral-800/30 before:backdrop-blur-md"
+      class="sticky container  bg- top-4 inset-x-0 flex flex-wrap md:justify-start md:flex-nowrap z-50 w-full before:absolute before:inset-0 before:max-w-[66rem] before:mx-2 before:lg:mx-auto before:rounded-[26px] "
     >
+    <!-- border-b border-[#FFFFFF29]  -->
       <nav
-        class="relative max-w-[66rem] w-full py-2.5 ps-5 pe-2 md:flex md:items-center md:justify-between md:py-0 mx-2 lg:mx-auto"
+        class="relative  max-w-[] w-full py-2.5 lg:ps-48 sm:ps-10  md:flex md:items-center md:justify-between md:py-5 mx-2 lg:mx-auto"
       >
         <div class="flex items-center justify-between">
           <!-- Logo -->
@@ -79,7 +80,7 @@ const isOpen = ref(false);
         <div
           id="hs-navbar-floating-dark"
           :class="isOpen ? 'block text-center ' : 'hidden'"
-          class="hs-collapse overflow-hidden transition-all duration-300 basis-full grow md:block"
+          class="hs-collapse  overflow-hidden transition-all duration-300 basis-full grow md:block"
           aria-labelledby="hs-navbar-floating-dark-collapse"
         >
           <div
