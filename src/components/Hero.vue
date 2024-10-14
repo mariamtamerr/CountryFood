@@ -3,7 +3,7 @@
 <template>
   <div class="bgImg bg-black ">
     <!-- Hero -->
-    <div class="">
+    <div class=" ">
       <div class="mx-auto px-4 sm:px-6 lg:px-8 py-24 space-y-8">
         <!-- Title -->
         <div class="max-w-2xl  text-center mx-auto">
@@ -20,6 +20,7 @@
             إطلاق مشروع جديد يشبه التطبيقات الشهيرة مثل هانجر ستيشن، نحن هنا
             لنساعدك على تحويل فكرتك إلى واقع بأعلى معايير الجودة.
           </p>
+          <img class="mx-auto -mb-24 " src="../assets/images/HeroScreens.png" alt="Screens"/>
         </div>
         <!-- End Title -->
 
@@ -27,7 +28,7 @@
 
 
       <!-- start : images -->
-       <div class=" parent hidden sm:flex justify-center gap-5 ">
+       <!-- <div class=" parent hidden sm:flex justify-center gap-5 ">
             <div class="one mt-44 -ml-16">
                 <img src="../assets/images/Your image.png" alt="screen"/>
             </div>
@@ -40,7 +41,8 @@
             <div class="three mt-28 ">
                 <img class="" src="../assets/images/Your image.png" alt="screen"/>
             </div>     
-       </div>
+       </div> -->
+       <!-- <img class="mx-auto " src="../assets/images/HeroScreens.png" alt="Screens"/> -->
       <!-- end : images -->
 
 

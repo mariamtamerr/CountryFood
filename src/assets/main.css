@@ -5,23 +5,11 @@
 
 
 
-/* @font-face {
-  font-family: 'PingAR';
-  src: url('@/assets/font/Ping.Font.Tlwen.com/PingAR+LT-Regular.woff2') format('woff2'),
-       url('@/assets/font/Ping.Font.Tlwen.com/PingAR+LT-Regular.woff') format('woff');
-  font-weight: normal;
-  font-style: normal;
-} */
-
-
-/* <style>
-@media (min-width: 1024px) {
-  .about {
-    min-height: 100vh;
-    display: flex;
-    align-items: center;
-  }
+@font-face {
+  font-family: 'PingAR+LT-Regular';
+  src: url('/src/assets/fonts/Ping/PingAR+LT-Regular.otf') format('opentype');
 }
-</style> */
 
-
+body {
+  font-family: 'PingAR+LT-Regular', sans-serif;
+}
