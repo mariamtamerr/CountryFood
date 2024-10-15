@@ -24,7 +24,7 @@
       <h3 class="mt-5 text-lg text-center font-bold text-gray-800 dark:text-neutral-300 dark:hover:text-white">
         نظام إدارة الطلبات المتكامل
       </h3>
-      <p class="mt-3 inline-flex items-center gap-x-1 text-sm font-medium text-[#6B6B6B]">
+      <p class="mt-3 inline-flex items-center gap-x-1 text-base font-medium text-[#6B6B6B]">
         نركز على تجربة مستخدم سلسة وسهلة التنقل لضمان رضا العملاء وسهولة استخدام التطبيق.
       </p>
     </a>
@@ -38,7 +38,7 @@
       <h3 class="mt-5 text-lg text-center font-bold text-gray-800 dark:text-neutral-300 dark:hover:text-white">
         متوافقة مع جميع الأجهزة
       </h3>
-      <p class="mt-3 inline-flex items-center gap-x-1 text-sm font-medium text-[#6B6B6B]">
+      <p class="mt-3 inline-flex items-center gap-x-1 text-base font-medium text-[#6B6B6B]">
         تطبيقك سيكون متاحًا على منصات متعددة، بما في ذلك iOS و Android، ليصل إلى أكبر عدد من المستخدمين.
       </p>
     </a>
@@ -52,7 +52,7 @@
       <h3 class="mt-5 text-lg text-center font-bold text-gray-800 dark:text-neutral-300 dark:hover:text-white">
         نظام إدارة الطلبات المتكامل
       </h3>
-      <p class="mt-3 inline-flex items-center gap-x-1 text-sm font-medium text-[#6B6B6B]">
+      <p class="mt-3  inline-flex items-center gap-x-1 text-base font-medium text-[#6B6B6B]">
         نوفر لك لوحة تحكم قوية تمكنك من إدارة الطلبات، تتبع الأداء، وإدارة المخزون والعروض.
       </p>
     </a>
@@ -66,7 +66,7 @@
       <h3 class="mt-5 text-lg text-center font-bold text-gray-800 dark:text-neutral-300 dark:hover:text-white">
         خرائط وتحديد الموقع
       </h3>
-      <p class="mt-3 inline-flex items-center gap-x-1 text-sm font-medium text-[#6B6B6B]">
+      <p class="mt-3 inline-flex items-center gap-x-1 text-base font-medium text-[#6B6B6B]">
         خاصية التتبع المباشر للطلبات باستخدام خرائط مدمجة تتيح للعملاء معرفة موقع طلباتهم بدقة في أي لحظة
       </p>
     </a>
@@ -80,7 +80,7 @@
       <h3 class="mt-5 text-lg text-center font-bold text-gray-800 dark:text-neutral-300 dark:hover:text-white">
         وسائل الدفع الإلكترونية
       </h3>
-      <p class="mt-3 inline-flex items-center gap-x-1 text-sm font-medium text-[#6B6B6B]">
+      <p class="mt-3 inline-flex items-center gap-x-1 text-base font-medium text-[#6B6B6B]">
         نوفر تكاملًا مع حلول الدفع المختلفة لتمكين العملاء من الدفع بسهولة وأمان سواء بالبطاقات أو المحفظة الإلكترونية.
       </p>
     </a>
@@ -94,7 +94,7 @@
       <h3 class="mt-5 text-lg text-center font-bold text-gray-800 dark:text-neutral-300 dark:hover:text-white">
         إدارة وتنسيق مع المطاعم
       </h3>
-      <p class="mt-3 inline-flex items-center gap-x-1 text-sm font-medium text-[#6B6B6B]">
+      <p class="mt-3 inline-flex items-center gap-x-1 text-base font-medium text-[#6B6B6B]">
         نساعدك على بناء قاعدة بيانات تحتوي على العديد من المطاعم مع ميزات لإدارة القوائم والأسعار والمراجعات والعروض.
       </p>
     </a>

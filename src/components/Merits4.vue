@@ -17,7 +17,7 @@
       <h2 class="text-2xl text-center lg:text-right  font-bold lg:leading-tight  xl:leading-tight text-gray-800 dark:text-neutral-200">
         صفحة هبوط تسويقية لتطبيق العملاء
       </h2>
-      <h4 class="text-lg mt-5 font-medium lg:text-xl  leading-relaxed lg:leading-tight  xl:leading-tight text-[#000000B2] dark:text-neutral-200">
+      <h4 class="text-lg mt-5 font-medium lg:text-xl  leading-relaxed lg:leading-relaxed  xl:leading-relaxed text-[#000000B2] dark:text-neutral-200">
         هو أداة مصممة لتوفير تجربة سهلة ومريحة للعملاء الذين يرغبون في طلب الطعام من المطاعم المفضلة لديهم وتسليمه مباشرة إلى منازلهم أو أماكن عملهم. يتيح هذا النوع من التطبيقات للعملاء تصفح قوائم الطعام، تقديم الطلبات، وتتبع حالة الطلب حتى لحظة التوصيل.
       </h4>
     </div>

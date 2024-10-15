@@ -17,7 +17,7 @@
       <h2 class="text-2xl text-center lg:text-right  font-bold lg:leading-tight  xl:leading-tight text-gray-800 dark:text-neutral-200">
         تطبيق جوال للمناديب لإدارة طلبات التوصيل
       </h2>
-      <h4 class="text-lg mt-5 font-medium lg:text-lg leading-relaxed lg:leading-tight  xl:leading-tight text-[#000000B2] dark:text-neutral-200">
+      <h4 class="text-lg mt-5 font-medium lg:text-lg leading-relaxed lg:leading-relaxed  xl:leading-relaxed text-[#000000B2] dark:text-neutral-200">
         هو أداة مصممة لتمكين مندوبي التوصيل من تنظيم وإدارة مهامهم اليومية بكفاءة وفعالية. يتيح هذا التطبيق للمندوبين تتبع الطلبات من لحظة استلامها حتى تسليمها إلى العملاء، مع توفير جميع المعلومات والبيانات التي يحتاجونها أثناء رحلتهم.
       </h4>
     </div>

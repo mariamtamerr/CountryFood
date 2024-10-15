@@ -12,7 +12,7 @@ const isOpen = ref(false);
     >
     <!-- border-b border-[#FFFFFF29]  -->
       <nav
-        class="relative  max-w-[] w-full py-2.5 lg:ps-48 sm:ps-10  md:flex md:items-center md:justify-between md:py-5 mx-2 lg:mx-auto"
+        class="relative  max-w-[] w-full py-2.5 xl:ps-48  sm:ps-10  md:flex md:items-center md:justify-between md:py-5 mx-2 lg:mx-auto"
       >
         <div class="flex items-center justify-between">
           <!-- Logo -->
@@ -84,7 +84,7 @@ const isOpen = ref(false);
           aria-labelledby="hs-navbar-floating-dark-collapse"
         >
           <div
-            class="flex md:mr-10 lg:mr-80 flex-col md:flex-row md:items-center md:justify-between py-2 md:py-0 md:ps-7"
+            class="flex md:mr-14 lg:mr-32 xl:mr-80 flex-col md:flex-row md:items-center md:justify-between py-2 md:py-0 md:ps-7"
           >
           <div class="uls ">
 
@@ -117,7 +117,7 @@ const isOpen = ref(false);
             >
 
           </div>
-            <div class="button justify-end ">
+            <div class="button justify- ">
               <a
                 class="group inline-flex items-center gap-x-2 py-2 px-3 bg-[#D71F29] font-medium text-sm text-white rounded-full focus:outline-none"
                 href="#contact"
