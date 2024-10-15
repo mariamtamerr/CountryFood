@@ -84,15 +84,15 @@ const isOpen = ref(false);
           aria-labelledby="hs-navbar-floating-dark-collapse"
         >
           <div
-            class="flex md:mr-14 lg:mr-32 xl:mr-80 flex-col md:flex-row md:items-center md:justify-between py-2 md:py-0 md:ps-7"
+            class="flex  md:mr-14 lg:mr-32 xl:mr-80 flex-col md:flex-row md:items-center lg:justify-between py-2 md:py-0 md:ps-7"
           >
           <div class="uls ">
 
             <a
-              class="p-3 ps-px sm:px-3 md:py-4 text-sm text-white hover:text-neutral-300 focus:outline-none focus:text-neutral-300"
+              class="p-3  ps-px sm:px-3 md:py-4 text-sm text-white hover:text-neutral-300 focus:outline-none focus:text-neutral-300"
               href="#"
               aria-current="page"
-              >من نحن</a
+              > من نحن</a
             >
             <a
               class="p-3 ps-px sm:px-3 md:py-4 text-sm text-white hover:text-neutral-300 focus:outline-none focus:text-neutral-300"
@@ -117,9 +117,9 @@ const isOpen = ref(false);
             >
 
           </div>
-            <div class="button justify- ">
+            <div class="button justify-end  ">
               <a
-                class="group inline-flex items-center gap-x-2 py-2 px-3 bg-[#D71F29] font-medium text-sm text-white rounded-full focus:outline-none"
+                class="group  inline-flex items-center gap-x-2 py-2 px-3 bg-[#D71F29] font-medium text-sm text-white rounded-full focus:outline-none"
                 href="#contact"
               >
                 تواصل معنا
